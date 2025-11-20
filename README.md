@@ -66,8 +66,8 @@
 
 <p align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=SamMegh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=SamMegh&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=jagjeetsheoran&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![](https://visitcount.itsvg.in/api?id=jagjeetsheoran&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
 

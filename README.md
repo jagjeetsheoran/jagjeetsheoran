@@ -61,10 +61,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagjeetsheoran&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagjeetsheoran&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=jagjeetsheoran&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
+           alt="GitHub Stats"
+           style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); max-width: 100%;" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagjeetsheoran&theme=radical&hide_border=true&layout=compact"
+           alt="Top Languages"
+           style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); max-width: 100%;" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=jagjeetsheoran&theme=tokyonight&hide_border=true" height="180"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=jagjeetsheoran&theme=radical"
+           alt="GitHub Streak"
+           style="margin-top: 10px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); max-width: 100%;" />
 </p>
 
 ---
@@ -72,7 +78,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jagjeetsheoran&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+![](https://github-profile-trophy.vercel.app/?username=jagjeetsheoran&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jagjeetsheoran&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
 ---

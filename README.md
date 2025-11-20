@@ -23,9 +23,9 @@
 
 ## 🚀 About Me
 
-<table>
+<table align="center" style="border-collapse: separate; border-spacing: 15px;">
 <tr>
-<td valign="top" width="60%">
+<td valign="top">
   
 🔹 **Full-Stack Dev & App Engineer**
 - React Native, Flutter, MERN stack, Next.js
@@ -43,7 +43,7 @@
 
 🔹 **Curiosity is my superpower!**  
 </td>
-<td align="center" width="40%">
+<td align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Jagjeet coding" height="160"/>
 </td>
 </tr>
@@ -57,29 +57,41 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jagjeetsheoran&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
-           alt="GitHub Stats"
-           style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); max-width: 100%;" />
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagjeetsheoran&theme=radical&hide_border=true&layout=compact"
-           alt="Top Languages"
-           style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); max-width: 100%;" />
-  <br />
-      <img src="https://nirzak-streak-stats.vercel.app/?user=jagjeetsheoran&theme=radical"
-           alt="GitHub Streak"
-           style="margin-top: 10px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); max-width: 100%;" />
-</p>
+ <table align="center" style="border-collapse: separate; border-spacing: 15px;">
+  <tr>
+    <td align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jagjeetsheoran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"  style="margin-top: 10px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);;" />
 
+  </td>
+    <td align="center">
+
+ <img src="https://nirzak-streak-stats.vercel.app/?user=jagjeetsheoran&theme=radical"
+       alt="GitHub Streak"
+       style="margin-top: 10px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);;" />
+   </td>
+    <td align="center">
+  <tr>
+ <td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagjeetsheoran&theme=radical&hide_border=true&layout=compact&show_icons=true"  
+        alt="Top langs"
+       style="margin-top: 10px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);;" />
+  </td>
+    <td align="center">
+ 
+  <img src="https://github-contributor-stats.vercel.app/api?username=jagjeetsheoran&show_icons=true&theme=tokyonight"
+       alt="Contributorn Stats"
+       style="margin-top: 10px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);;" />
+  </td>
+     </tr>
+</table>
+</p>
 ---
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
 ![](https://github-profile-trophy.vercel.app/?username=jagjeetsheoran&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=jagjeetsheoran&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
